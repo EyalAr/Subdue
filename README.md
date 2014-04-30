@@ -1,0 +1,1 @@
+Code for http://eyalarubas.com/javascript-generators-and-callbacks.html
