@@ -20,7 +20,7 @@ module.exports = function(generator){
         // pass the result to the last 'yield'
         // expression by calling generator's
         // 'next' with the result
-        run.next.apply(run, result);
+        run.next.call(run, result);
 
     }
 
